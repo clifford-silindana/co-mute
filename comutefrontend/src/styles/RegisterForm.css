@@ -1,0 +1,40 @@
+.register-form-area {
+    width : 40%;
+    height : 80%;
+    background-color: rgb(24, 25, 28);
+    position : absolute;
+    top : 10%;
+    left : 30%;
+    opacity: 0.7;
+    
+}
+
+#register-form {
+    width : 80%;
+}
+
+#comute-logo {
+    width : 150px; 
+    margin-top : 20px;
+    margin-bottom : 20px;
+}
+
+#register-heading {
+    color : white;
+    margin-bottom : 30px;
+}
+
+#input-field {
+    margin-bottom : 20px;
+}
+
+#login-btn {
+    margin-top : 70px;
+    margin-bottom : 20px;
+    width : 50%;
+}
+
+#register-text:hover {
+    color : white;
+}
+
