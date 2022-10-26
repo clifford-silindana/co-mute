@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Clifford",
+      "surname": "Silindana",
+      "phone": "084 737 7621",
+      "email": "clifford@email.com",
+      "password": "0000xxxx",
+      "vehicleDescription": "Mercedes Benz AMG A45",
+      "vehicleRegistration": "CLF 000 GP"
+    },
+    {
+      "id": 2,
+      "name": "Lungile",
+      "surname": "Silindana",
+      "phone": "065 906 6589",
+      "email": "lungile@email.com",
+      "password": "1111zzzz",
+      "vehicleDescription": "Range Rover",
+      "vehicleRegistration": "LNG 111 GP"
+    },
+    {
+      "name": "RISIMA",
+      "surname": "Silindana",
+      "phone": "079 541 1613",
+      "email": "risima@email.com",
+      "password": "risima100%",
+      "vehicleDescription": "Ferrari",
+      "vehicleRegistration": "RSM 222 GP",
+      "id": 3
+    },
+    {
+      "name": "Risima",
+      "surname": "Silindana",
+      "phone": "0795411613",
+      "email": "ririma@email.com",
+      "password": "risima100%",
+      "vehicleDescription": "Ferrari Spider",
+      "vehicleRegistration": "RSM 222 GP",
+      "id": 4
+    }
+  ]
+}
