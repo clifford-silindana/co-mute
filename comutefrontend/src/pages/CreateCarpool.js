@@ -9,7 +9,7 @@ function CreateCarpool() {
   return (
     <div>
         <Navigation />
-        <h1>CreateCarpool</h1>
+        <h1 className = "page-heading">Create A New Carpool</h1>
         <div className = "content-area">
             <div className = "picture-area"><img className = "content-image"src = {createcarpoolimg} alt = "friends driving in car"/> </div>
             <div className = "form-area"><CarpoolForm /></div>

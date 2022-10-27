@@ -1,3 +1,7 @@
+.page-heading {
+    font-family: 'Pacifico', cursive
+}
+
 .profile-content-area {
     display : flex;
     width : 100%;

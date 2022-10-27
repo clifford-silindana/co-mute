@@ -5,7 +5,7 @@ function Home() {
   return (
     <div>
         <Navigation/>
-        <h1>Here are your JoinedCarPools user</h1>
+        <h1 className = "page-heading">Here are your Joined CarPools user</h1>
     </div>
   )
 }

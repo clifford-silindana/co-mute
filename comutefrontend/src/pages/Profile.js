@@ -17,7 +17,7 @@ function Profile() {
 
     const {user_id} = useParams();
 
-    let url = "http://localhost:8000/users/";
+    let url = " http://localhost:8001/users/";
 
     useEffect(() => {
         fetch(url + user_id)
@@ -47,7 +47,7 @@ function Profile() {
   return (
     <div>
         <Navigation />
-        <h1>Your Profile  {user_id}</h1>
+        <h1 className = "page-heading">Your Profile  {user_id}</h1>
         {isLoading ? <h1>Loading...</h1> :
         <div className = "profile-content-area">
             <div className = "profile-form-area">
