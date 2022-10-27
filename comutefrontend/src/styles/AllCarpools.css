@@ -1,0 +1,30 @@
+.page-heading {
+    margin-top : 20px;
+    margin-bottom : 100px;
+    color : white;
+}
+
+.carpool-preview {
+    margin-bottom : 50px;
+    width : 50%;
+    padding : 20px;
+    border-radius : 20px;
+    background : rgba(8, 6, 102, 0.7);
+}
+
+.preview-text {
+    color : white;
+}
+
+.preview-btn {
+    margin-top : 20px;
+    width : 150px;
+    padding : 5px;
+    color : white;
+    background : rgb(90, 9, 117);
+    border: none;
+    border-radius: 10px;
+    font-family :'Poppins', sans-serif;
+    font-size : 20px;
+    
+}

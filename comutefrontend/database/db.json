@@ -1,14 +1,14 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Clifford",
+      "name": "Clifford Kurhula",
       "surname": "Silindana",
-      "phone": "084 737 7621",
+      "phone": "084 737 7620",
       "email": "clifford@email.com",
       "password": "0000xxxx",
       "vehicleDescription": "Mercedes Benz AMG A45",
-      "vehicleRegistration": "CLF 000 GP"
+      "vehicleRegistration": "CLF 000 GP",
+      "id": 1
     },
     {
       "id": 2,
@@ -39,6 +39,29 @@
       "vehicleDescription": "Ferrari Spider",
       "vehicleRegistration": "RSM 222 GP",
       "id": 4
+    }
+  ],
+  "carpools": [
+    {
+      "id": 1,
+      "departureTime": "12h00",
+      "expectedArrivalTime": "14h00",
+      "daysAvailable": 14,
+      "destination": "Durban",
+      "availableSeats": 5,
+      "owner": "Clifford Silindana",
+      "specialNotes": "Please bring own blanket"
+    },
+    {
+      "departureTime": "18h00",
+      "expectedArrivalTime": "18h45",
+      "origin": "Pretoria",
+      "daysAvailable": "2",
+      "destination": "Soweto",
+      "availableSeats": "1",
+      "owner": "Lungile",
+      "specialNotes": "None",
+      "id": 2
     }
   ]
 }

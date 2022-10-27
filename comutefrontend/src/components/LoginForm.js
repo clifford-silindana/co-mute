@@ -13,7 +13,7 @@ function LoginForm() {
         <form id = "login-form"action="#">
             <input id = "email-field" class="form-control form-control-lg" type="text" placeholder="email" aria-label=".form-control-lg example"/>
             <input id = "password-field" class="form-control form-control-lg" type="text" placeholder="password" aria-label=".form-control-lg example"/>
-            <button id = "login-btn"type="button" class="btn btn-success">log in</button>
+            <Link to = "/home"><button id = "login-btn"type="button" class="btn btn-success">log in</button></Link>
             <Link to = "/register"><p id = "register-text">New to Co-Mute? Join the family.</p></Link>
         </form>
 

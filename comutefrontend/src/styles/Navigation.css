@@ -1,0 +1,52 @@
+.navigation {
+    
+    display : flex;
+    justify-content: space-between;
+    align-items: center;
+    height : 25vh;
+    margin-bottom : 30px;
+    position : sticky;
+    top : 0px;
+    left : 0px;
+    z-index: 1000;
+    background : rgb(4, 0, 10);
+    
+   
+}
+
+#comute-logo {
+    width : 80%;
+    
+}
+
+.navigation-links {
+    display : flex;
+    list-style-type: none;
+
+}
+
+.nav-link {
+    
+    color : white;
+    margin-left : 50px;
+    padding : 10px 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.nav-link:hover {
+    color : white;
+    background : rgb(8, 6, 102);
+}
+
+.link-item {
+    text-transform : uppercase;
+    
+}
+
+.nav-image {
+    width : 25px;
+    
+}
