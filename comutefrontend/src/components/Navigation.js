@@ -36,7 +36,7 @@ function Navigation() {
             <li className = "link-item"><Link className = "nav-link" to = "/allcarpools">all carpools</Link></li>
             <li className = "link-item"><Link className = "nav-link" to = "/mycarpools">my carpools</Link></li>
             <li className = "link-item"><Link className = "nav-link" to = {"/myprofile/" + placeholderUserId}><img className = "nav-image" src={profilesvg} alt="profile icon" /></Link></li>
-            <li className = "link-item"><img onClick = {handleLogout} className = "nav-image" src = {logoutsvg} alt = "logout icon"/></li>
+            <li className = "link-item"><Link className = "nav-link"><img onClick = {handleLogout} className = "nav-image" src = {logoutsvg} alt = "logout icon"/></Link></li>
             
 
         </ul>
