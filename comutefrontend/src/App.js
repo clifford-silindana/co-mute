@@ -8,21 +8,25 @@ import Home from './pages/Home';
 import CreateCarpool from './pages/CreateCarpool';
 import AllCarpools from './pages/AllCarpools';
 import Profile from './pages/Profile';
+import { AuthContextProvider } from './context/AuthContext';
+import ProtectedRoute from './components/ProtectedRoute';
 
 function App() {
   return (
     <div className="App">
       <BrowserRouter>
+      <AuthContextProvider>
         <Routes>
           <Route path = "/" element = {<Login />}/>
           <Route path = "/register" element = {<Register />}/>
-          <Route path = "/home" element = {<Home />}/>
-          <Route path = "/createcarpool" element = {<CreateCarpool />}/>
-          <Route path = "/allcarpools" element = {<AllCarpools />}/>
-          <Route path = "/myprofile/:user_id" element = {<Profile />}/>
+          <Route path = "/home" element = {<ProtectedRoute><Home /></ProtectedRoute>}/>
+          <Route path = "/createcarpool" element = {<ProtectedRoute><CreateCarpool /></ProtectedRoute>}/>
+          <Route path = "/allcarpools" element = {<ProtectedRoute><AllCarpools /></ProtectedRoute>}/>
+          <Route path = "/myprofile/:user_id" element = {<ProtectedRoute><Profile /></ProtectedRoute>}/>
 
       
         </Routes>
+        </AuthContextProvider>
       </BrowserRouter>
      
     </div>

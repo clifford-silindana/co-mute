@@ -1,0 +1,2312 @@
+﻿WEBVTT
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/34-0
+00:00:09.497 --> 00:00:13.334
+Good day. Good day. Full stick
+to you. My name is Clifford
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/34-1
+00:00:13.334 --> 00:00:17.236
+Indiana and I am one of the
+applicants who would like to to
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/34-2
+00:00:17.236 --> 00:00:19.447
+join the full stack team as
+well.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/58-0
+00:00:20.617 --> 00:00:24.415
+So as part of my as part of my
+application process generate the
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/58-1
+00:00:24.415 --> 00:00:27.797
+the full state team I was
+provided with a project that I
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/58-2
+00:00:27.797 --> 00:00:30.467
+had to complete in a in a period
+of the day.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/92-0
+00:00:31.787 --> 00:00:36.399
+So the the project is called
+commute. So just quickly briefly
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/92-1
+00:00:36.399 --> 00:00:40.713
+the the whole purpose of commit
+is is to address like the
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/92-2
+00:00:40.713 --> 00:00:44.953
+increase in in fuel prices and
+also the the high traffic
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/92-3
+00:00:44.953 --> 00:00:48.077
+congestions on the road. So it's
+to help.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/128-0
+00:00:48.567 --> 00:00:53.453
+Uh commuters to save time on the
+road and also to cut down costs
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/128-1
+00:00:53.453 --> 00:00:58.263
+that come with I'm committing in
+in cars. So one of the preview
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/128-2
+00:00:58.263 --> 00:01:02.997
+preview, the one that was was it
+the reporting? So one of the.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/137-0
+00:01:03.937 --> 00:01:06.367
+One of the one of the
+instructions that it provided.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/166-0
+00:01:06.787 --> 00:01:11.683
+No window on the project was
+that like? Yes, as much as as
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/166-1
+00:01:11.683 --> 00:01:16.994
+much as I really. I was really
+pushing to to finish the project
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/166-2
+00:01:16.994 --> 00:01:19.317
+within the given time frame.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/244-0
+00:01:21.477 --> 00:01:25.723
+One of the instructions that if
+if if there's a, there's a part
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/244-1
+00:01:25.723 --> 00:01:29.903
+that you didn't get to. I'm I
+should comment, I should comment
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/244-2
+00:01:29.903 --> 00:01:33.618
+it out on the code like
+explaining my approach to to to
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/244-3
+00:01:33.618 --> 00:01:37.732
+the program in question. So I go
+to myself. Yes, I I I really
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/244-4
+00:01:37.732 --> 00:01:42.044
+think I really think commenting
+would definitely do the justice,
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/244-5
+00:01:42.044 --> 00:01:46.025
+but I thought perhaps maybe
+recording a video and also like
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/244-6
+00:01:46.025 --> 00:01:50.071
+sharing the code itself and
+explaining like the step by step
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/244-7
+00:01:50.071 --> 00:01:51.597
+things that I would do.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/262-0
+00:01:51.687 --> 00:01:54.677
+Yeah, I thought that would be
+even more comprehensible. So I
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/262-1
+00:01:54.677 --> 00:01:57.127
+hope that the video is gonna be
+working received.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/285-0
+00:01:57.877 --> 00:02:03.042
+Umm so yes, how would like to go
+about the presentation is that
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/285-1
+00:02:03.042 --> 00:02:07.078
+I'm gonna be I'm gonna be
+sharing the the project
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/285-2
+00:02:07.078 --> 00:02:08.207
+specification.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/358-0
+00:02:09.877 --> 00:02:13.572
+Sharing each feature, that's
+that that's expected from the
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/358-1
+00:02:13.572 --> 00:02:17.579
+project and with the feature I'm
+gonna be showing on the on the
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/358-2
+00:02:17.579 --> 00:02:21.649
+code itself and the the the site
+itself. How that feature is, is
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/358-3
+00:02:21.649 --> 00:02:25.531
+is is getting achieved and then
+when the features themselves,
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/358-4
+00:02:25.531 --> 00:02:29.163
+I'd like to request to start
+with the features that I was
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/358-5
+00:02:29.163 --> 00:02:32.982
+able to get you on time and and
+then move on to the features
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/358-6
+00:02:32.982 --> 00:02:36.864
+that I couldn't finish one time.
+And also it's been how I was
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/358-7
+00:02:36.864 --> 00:02:38.617
+going to how would you move.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/367-0
+00:02:38.897 --> 00:02:44.257
+Ohh, into toys, toys, tickling
+those those questions.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/375-0
+00:02:45.197 --> 00:02:48.357
+So now to to just quickly share
+my code.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/381-0
+00:02:49.417 --> 00:02:50.957
+I'm gonna be sharing my screen
+now.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/392-0
+00:02:58.567 --> 00:03:02.611
+All right, so this is the, this
+is the page description that I'm
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/392-1
+00:03:02.611 --> 00:03:03.357
+going to be.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/397-0
+00:03:05.527 --> 00:03:06.687
+Consider referring to.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/404-0
+00:03:07.837 --> 00:03:09.307
+I'm going to be considering too.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/476-0
+00:03:09.817 --> 00:03:13.528
+Umm. And also just just please
+please bear with me with the,
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/476-1
+00:03:13.528 --> 00:03:17.178
+with the ambient noise. So
+what's happening is that my room
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/476-2
+00:03:17.178 --> 00:03:20.706
+is is, is, is just it's more
+quiet but then I had to move
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/476-3
+00:03:20.706 --> 00:03:24.599
+from my room to come down here
+because I have no shooting right
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/476-4
+00:03:24.599 --> 00:03:28.553
+now and yeah it's it's it's it's
+it's it's quite it's quite dark
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/476-5
+00:03:28.553 --> 00:03:32.081
+in there like I wouldn't I
+wouldn't I wouldn't be visible
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/476-6
+00:03:32.081 --> 00:03:34.757
+here so please bear with me with
+the noise.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/488-0
+00:03:38.617 --> 00:03:41.206
+So this is the yes, I was saying
+this is the requirements
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/488-1
+00:03:41.206 --> 00:03:41.607
+document.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/490-0
+00:03:42.607 --> 00:03:43.917
+And.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/507-0
+00:03:45.187 --> 00:03:48.449
+If we see So what I'm gonna be
+doing is I'm going to be
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/507-1
+00:03:48.449 --> 00:03:49.497
+referring to this.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/510-0
+00:03:50.447 --> 00:03:51.337
+And then.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/513-0
+00:03:52.687 --> 00:03:53.487
+OK so.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/528-0
+00:03:57.837 --> 00:04:02.770
+So excuse me about that. So as
+as I mentioned earlier, the
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/528-1
+00:04:02.770 --> 00:04:04.107
+whole the whole.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/552-0
+00:04:05.017 --> 00:04:08.984
+Concept of the whole purpose of
+the project is to cut down on
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/552-1
+00:04:08.984 --> 00:04:12.823
+costs and also the the time
+wasted one on high high traffic
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/552-2
+00:04:12.823 --> 00:04:13.207
+rules.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/572-0
+00:04:14.157 --> 00:04:18.568
+And then yeah, two just don't
+start on the project itself. So
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/572-1
+00:04:18.568 --> 00:04:20.987
+these are the project looks
+like.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/615-0
+00:04:23.217 --> 00:04:27.008
+Like on the on the first page,
+when the user when the user for
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/615-1
+00:04:27.008 --> 00:04:30.798
+example types in commute to suit
+the there's a thing that they
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/615-2
+00:04:30.798 --> 00:04:34.529
+wanna see on the on the screen.
+So this is gonna be the login
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/615-3
+00:04:34.529 --> 00:04:37.597
+form. The login form that they
+wanna use and then.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/624-0
+00:04:38.667 --> 00:04:41.757
+OK. So just to go with the
+comments documents step by step.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/631-0
+00:04:42.607 --> 00:04:43.997
+So this was gonna happen here.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/633-0
+00:04:45.247 --> 00:04:45.777
+No.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/651-0
+00:04:47.027 --> 00:04:51.084
+Alright, so there the the first
+functionality is that a user
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/651-1
+00:04:51.084 --> 00:04:54.077
+will have to be able to register
+themselves.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/684-0
+00:04:54.757 --> 00:04:58.581
+So when we come here on this
+page, we wanna click on new to
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/684-1
+00:04:58.581 --> 00:05:02.596
+commute, join the family and I
+click there and then it's gonna
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/684-2
+00:05:02.596 --> 00:05:06.292
+take it to your page on which
+you can be able to register
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/684-3
+00:05:06.292 --> 00:05:07.757
+yourself as a new user.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/687-0
+00:05:08.637 --> 00:05:09.987
+And then.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/692-0
+00:05:10.937 --> 00:05:13.207
+So you're gonna find all the
+fields here.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/697-0
+00:05:14.427 --> 00:05:15.717
+All the necessary pills.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/712-0
+00:05:16.557 --> 00:05:20.975
+Uh, names and name, phone,
+e-mail, password is it's
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/712-1
+00:05:20.975 --> 00:05:24.627
+required on the description here
+and also.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/754-0
+00:05:25.887 --> 00:05:29.703
+You might be seeing that there's
+there's there's. There's two
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/754-1
+00:05:29.703 --> 00:05:33.579
+extra fields here that I added
+when I explain why I decided to
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/754-2
+00:05:33.579 --> 00:05:37.394
+to to go with those groups as
+well, because there's a feature
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/754-3
+00:05:37.394 --> 00:05:40.717
+that I thought would be very
+hopeful that for such a.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/758-0
+00:05:41.537 --> 00:05:42.527
+Was such a project.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/778-0
+00:05:43.387 --> 00:05:46.715
+Umm, so we thought that this. I
+mean, I'm in a communal area, so
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/778-1
+00:05:46.715 --> 00:05:49.837
+there's gonna be voices around
+me. Now if you know and then.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/784-0
+00:05:50.747 --> 00:05:53.597
+So this is the best.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/788-0
+00:05:56.237 --> 00:05:57.177
+This is the first.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/802-0
+00:05:59.657 --> 00:06:02.771
+Is the first comment here. It's
+gonna be a huge play this form
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/802-1
+00:06:02.771 --> 00:06:03.067
+again.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/814-0
+00:06:03.827 --> 00:06:07.229
+And then yeah, so this is this
+is one of the person that I
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/814-1
+00:06:07.229 --> 00:06:07.747
+couldn't.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/854-0
+00:06:09.397 --> 00:06:13.270
+Couldn't finish, so like the
+notification part, but like how
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/854-1
+00:06:13.270 --> 00:06:17.015
+would go with this part share is
+that I would use Firebase
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/854-2
+00:06:17.015 --> 00:06:20.506
+because what Firebase does is
+that you can see it as a
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/854-3
+00:06:20.506 --> 00:06:22.347
+functionality or fictionally.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/857-0
+00:06:22.937 --> 00:06:23.657
+Umm.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/872-0
+00:06:24.537 --> 00:06:28.300
+Creating creating a user for you
+and then after that you wanna be
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/872-1
+00:06:28.300 --> 00:06:30.067
+able to authenticate that user.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/905-0
+00:06:30.627 --> 00:06:34.538
+Uh, with with e-mail in
+personality. So that's that's
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/905-1
+00:06:34.538 --> 00:06:38.883
+how we move towards treating
+towards finishing this part of
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/905-2
+00:06:38.883 --> 00:06:43.300
+the authentication and then
+after creating the account, it's
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/905-3
+00:06:43.300 --> 00:06:47.717
+gonna automatically navigate you
+to to the login page again.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/925-0
+00:06:48.977 --> 00:06:52.206
+And then when I come back to
+login page and then going back
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/925-1
+00:06:52.206 --> 00:06:53.927
+to your comments document again.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/934-0
+00:06:55.257 --> 00:06:58.077
+OK, so it seems like we're not
+gonna be able to.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/946-0
+00:06:59.927 --> 00:07:03.459
+OK, there's a login, there's
+login function to the bottom,
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/946-1
+00:07:03.459 --> 00:07:04.177
+but I think.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1014-0
+00:07:04.317 --> 00:07:08.730
+Ohm I should stuck with it now
+since it's very close to the
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1014-1
+00:07:08.730 --> 00:07:13.438
+anticipation is well. So just to
+address that quickly. So as as
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1014-2
+00:07:13.438 --> 00:07:17.924
+as I mentioned before that so
+the attention part is the part
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1014-3
+00:07:17.924 --> 00:07:22.484
+that I couldn't get to you in
+time, but how would go about it
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1014-4
+00:07:22.484 --> 00:07:26.824
+is that from here on you the
+user would insert that e-mail
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1014-5
+00:07:26.824 --> 00:07:31.090
+then password and also and I
+would authenticate them with
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1014-6
+00:07:31.090 --> 00:07:34.767
+Firebase and from then they'll
+be able to access.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1042-0
+00:07:35.007 --> 00:07:38.833
+The exclusive descriptive pages
+of the site because they are
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1042-1
+00:07:38.833 --> 00:07:42.658
+part of the of the site. They're
+registered users, so that's
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1042-2
+00:07:42.658 --> 00:07:46.483
+gonna be covering the login,
+which is a file that is spelled
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1042-3
+00:07:46.483 --> 00:07:47.047
+out here.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1068-0
+00:07:47.787 --> 00:07:51.188
+So when I get to again now to
+save time, I'm not gonna be
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1068-1
+00:07:51.188 --> 00:07:54.707
+probably gonna again because
+I've seen what I'd like to say
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1068-2
+00:07:54.707 --> 00:07:56.407
+about it. The the login part.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1071-0
+00:07:57.367 --> 00:07:58.077
+And then.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1090-0
+00:07:58.917 --> 00:08:02.635
+So another another change with
+the login is that after the user
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1090-1
+00:08:02.635 --> 00:08:06.237
+logs in, this is the first page
+that this supposed to see if.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1123-0
+00:08:07.107 --> 00:08:10.939
+Which is the the the couples
+that was that a user has joined.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1123-1
+00:08:10.939 --> 00:08:14.833
+So these are all your couples
+here. And then I'm gonna explain
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1123-2
+00:08:14.833 --> 00:08:17.367
+what is supposed to happen here
+as well.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1130-0
+00:08:18.467 --> 00:08:21.797
+So right to go back here.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1134-0
+00:08:24.367 --> 00:08:26.617
+Alright, so we've covered.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1144-0
+00:08:30.907 --> 00:08:33.447
+OK. We've covered, we've covered
+the the that you use it.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1232-0
+00:08:34.067 --> 00:08:37.222
+And then now we're gonna be
+covering the new couple
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1232-1
+00:08:37.222 --> 00:08:41.044
+opportunity. So a new couple of
+opportunity essentially is, is
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1232-2
+00:08:41.044 --> 00:08:45.048
+someone going into their app and
+saying, OK, I'm gonna be on this
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1232-3
+00:08:45.048 --> 00:08:48.567
+day, I'm gonna be going from,
+for example, join aspect to
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1232-4
+00:08:48.567 --> 00:08:52.328
+Pretoria. And then this is the
+number of seats that I have in
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1232-5
+00:08:52.328 --> 00:08:56.211
+my car. And then, yeah, this is
+this is the number of days that
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1232-6
+00:08:56.211 --> 00:08:59.911
+I have until like 4 for when,
+like, my, my, my, my couple is
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1232-7
+00:08:59.911 --> 00:09:03.794
+available. And then anyone who
+wants to join me on that on that
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1232-8
+00:09:03.794 --> 00:09:04.097
+trip.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1257-0
+00:09:04.177 --> 00:09:08.366
+Is is able to to do that. So
+this is gonna be achieved by
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1257-1
+00:09:08.366 --> 00:09:12.843
+this part share. So the user
+from this the home page and when
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1257-2
+00:09:12.843 --> 00:09:14.937
+I click on create cover both.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1264-0
+00:09:16.177 --> 00:09:17.887
+That's when I need them to the
+speech here.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1280-0
+00:09:19.047 --> 00:09:22.347
+So there's a user ID here and
+when explaining why that comes
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1280-1
+00:09:22.347 --> 00:09:22.887
+about but.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1320-0
+00:09:24.267 --> 00:09:28.379
+This was for testing purposes
+because I'm working with a a
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1320-1
+00:09:28.379 --> 00:09:32.282
+database so that they can, so
+they're gonna insert that
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1320-2
+00:09:32.282 --> 00:09:36.463
+departure time expected forever
+time origin. He's available
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1320-3
+00:09:36.463 --> 00:09:40.853
+destination available seats, an
+owner, any other special rules
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1320-4
+00:09:40.853 --> 00:09:42.177
+as required to buy.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1328-0
+00:09:42.657 --> 00:09:45.667
+Uh, it's the the project
+specification here.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1331-0
+00:09:46.657 --> 00:09:47.407
+And then.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1334-0
+00:09:49.357 --> 00:09:49.917
+Let's see.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1339-0
+00:09:52.007 --> 00:09:53.437
+All right, so currently.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1343-0
+00:09:55.957 --> 00:09:57.967
+Currently it's.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1349-0
+00:09:59.947 --> 00:10:01.897
+Because they could cause the
+the.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1364-0
+00:10:03.317 --> 00:10:07.600
+I was testing it with the with
+the JSON server right now, which
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1364-1
+00:10:07.600 --> 00:10:08.737
+is this one here.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1396-0
+00:10:09.587 --> 00:10:13.905
+She's just one mute, but there
+is. There is an actual C#
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1396-1
+00:10:13.905 --> 00:10:18.450
+server, the vacant which is this
+one here that I built with
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1396-2
+00:10:18.450 --> 00:10:21.177
+asp.net core. So to test out
+which.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1402-0
+00:10:22.047 --> 00:10:23.437
+Jason server first.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1404-0
+00:10:24.317 --> 00:10:24.627
+No.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1412-0
+00:10:25.817 --> 00:10:28.907
+These are the example. Maybe
+like if you can see here.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1430-0
+00:10:29.977 --> 00:10:34.169
+There's only three of them now,
+so if you try to add a couple,
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1430-1
+00:10:34.169 --> 00:10:36.697
+maybe departure time is 3:00
+o'clock.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1433-0
+00:10:37.387 --> 00:10:37.827
+The hips.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1440-0
+00:10:38.817 --> 00:10:40.797
+And then this is.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1443-0
+00:10:41.457 --> 00:10:42.217
+After three.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1457-0
+00:10:43.187 --> 00:10:46.117
+In the origin, probably. Let's
+say we won the porch.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1464-0
+00:10:48.557 --> 00:10:50.657
+And in the case available, maybe
+it's true.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1472-0
+00:10:51.377 --> 00:10:53.687
+Destination is town perhaps?
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1489-0
+00:10:54.427 --> 00:10:58.944
+Just for example purposes, in
+the name of 1 CS remaining and
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1489-1
+00:10:58.944 --> 00:11:00.277
+then maybe it's a.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1495-0
+00:11:01.537 --> 00:11:03.247
+I don't know. I'm staying.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1504-0
+00:11:05.197 --> 00:11:09.287
+Something like that. Special
+knows. Maybe he's.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1510-0
+00:11:11.027 --> 00:11:13.157
+Things next steps.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1516-0
+00:11:15.197 --> 00:11:16.547
+But then I create the couple.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1531-0
+00:11:17.217 --> 00:11:20.316
+And then after the couple is
+created, we can go to the JSON
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1531-1
+00:11:20.316 --> 00:11:20.987
+server again.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1536-0
+00:11:21.767 --> 00:11:23.037
+And then you will see that.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1590-0
+00:11:24.197 --> 00:11:28.105
+There's a new couple those
+created here. So for this one I
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1590-1
+00:11:28.105 --> 00:11:32.080
+was testing out the API, but
+since it's supposed to work on
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1590-2
+00:11:32.080 --> 00:11:36.054
+the real Life API, what I can
+what I what I will do in that
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1590-3
+00:11:36.054 --> 00:11:40.160
+case is that I'll come to the
+couple here. So instead of this
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1590-4
+00:11:40.160 --> 00:11:43.207
+part of the URL here which is
+linking to the.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1611-0
+00:11:44.117 --> 00:11:48.829
+The the Jason server which is
+this one here no rather this one
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1611-1
+00:11:48.829 --> 00:11:52.867
+here. No one will opening. I
+would replace that with.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1616-0
+00:11:54.737 --> 00:11:57.877
+This actual API here.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1619-0
+00:11:58.967 --> 00:11:59.287
+Umm.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1624-0
+00:12:07.367 --> 00:12:09.497
+So this thing has two.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1626-0
+00:12:10.027 --> 00:12:10.747
+So are we.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1639-0
+00:12:14.687 --> 00:12:17.363
+So these are the couples. Yeah.
+So instead of using a JSON
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1639-1
+00:12:17.363 --> 00:12:18.677
+server, replace it with this.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1683-0
+00:12:20.277 --> 00:12:24.797
+API endpoint here and then it's
+gonna go to our actual database.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1683-1
+00:12:24.797 --> 00:12:29.038
+That's that's the. That's how we
+do it would work in in real
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1683-2
+00:12:29.038 --> 00:12:33.141
+life. And then so that's that's
+part of the creating a new
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1683-3
+00:12:33.141 --> 00:12:35.087
+couple opportunity and then.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1687-0
+00:12:36.817 --> 00:12:37.457
+Can you see?
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1758-0
+00:12:39.077 --> 00:12:42.604
+So to join and leave couple
+opportunity so this one here is
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1758-1
+00:12:42.604 --> 00:12:46.014
+gonna be covered by this
+passion. So you're gonna come to
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1758-2
+00:12:46.014 --> 00:12:49.717
+all couples and they're gonna
+see all of the couples here that
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1758-3
+00:12:49.717 --> 00:12:53.185
+are that are that were ever
+created in there but so so for
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1758-4
+00:12:53.185 --> 00:12:57.006
+example origin Pretoria and then
+if you want to see more details
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1758-5
+00:12:57.006 --> 00:13:00.533
+about it you're gonna click on
+the view couple so right now
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1758-6
+00:13:00.533 --> 00:13:03.707
+it's not showing anything which
+is another part that.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1772-0
+00:13:05.027 --> 00:13:11.424
+I haven't gotten to yet, so here
+for example, it's it's it's
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1772-1
+00:13:11.424 --> 00:13:12.367
+dragging.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1786-0
+00:13:13.277 --> 00:13:15.951
+So at this point also shows that
+the API does work actually
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1786-1
+00:13:15.951 --> 00:13:16.307
+because.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1814-0
+00:13:16.977 --> 00:13:20.973
+This punch? Yeah, is pulling
+this data from from an API
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1814-1
+00:13:20.973 --> 00:13:25.468
+endpoint like our actual one,
+not the Jason server. And we can
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1814-2
+00:13:25.468 --> 00:13:26.467
+see this from.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1819-0
+00:13:27.297 --> 00:13:28.247
+If I can do this.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1839-0
+00:13:30.007 --> 00:13:33.011
+Like these are all our couples
+in and then just in case this
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1839-1
+00:13:33.011 --> 00:13:35.227
+one is not clear, but it's in
+Jason from it.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1851-0
+00:13:36.227 --> 00:13:40.027
+We can look at the database here
+on Microsoft SQL Server.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1860-0
+00:13:41.057 --> 00:13:43.307
+So we see that there's a.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1875-0
+00:13:44.457 --> 00:13:48.727
+For example, if we, if we make a
+query on our couples table.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1878-0
+00:13:50.007 --> 00:13:50.977
+Uh, yeah.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1901-0
+00:13:52.367 --> 00:13:55.192
+Select all. It's gonna be the
+same query result, but then I'm
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1901-1
+00:13:55.192 --> 00:13:58.017
+just. I just want to show you
+again that it's coming from the
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1901-2
+00:13:58.017 --> 00:13:58.427
+database.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1927-0
+00:13:59.907 --> 00:14:03.498
+So for example, if we look at
+this one, the origin is coming
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1927-1
+00:14:03.498 --> 00:14:06.971
+from the dog jonesburg to
+Victoria and then the second one
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1927-2
+00:14:06.971 --> 00:14:08.737
+is going to specifically they.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1950-0
+00:14:10.587 --> 00:14:12.992
+So this Chinese picture
+pictorial and then join this
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1950-1
+00:14:12.992 --> 00:14:15.578
+picture case. And so it's
+actually pulling data from our
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1950-2
+00:14:15.578 --> 00:14:16.167
+API endpoint.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1957-0
+00:14:17.107 --> 00:14:19.067
+And then yes, that's a.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1966-0
+00:14:20.307 --> 00:14:22.957
+That's it. So from here from
+view couple.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1996-0
+00:14:23.707 --> 00:14:27.534
+What it actually happened here
+is that from this component
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1996-1
+00:14:27.534 --> 00:14:31.555
+here. So this component check
+comes with all of these details
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1996-2
+00:14:31.555 --> 00:14:35.447
+that we find here. So like the
+user ID, the departure time,
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/1996-3
+00:14:35.447 --> 00:14:37.327
+arrival time, it's just that.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2033-0
+00:14:38.377 --> 00:14:42.468
+For for simplicity, for
+simplicity purposes, I only show
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2033-1
+00:14:42.468 --> 00:14:46.487
+the origin and the destination,
+but everything is is is
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2033-2
+00:14:46.487 --> 00:14:50.936
+accessible and on this company
+chip. So if I were to say view
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2033-3
+00:14:50.936 --> 00:14:51.797
+couple here.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2042-0
+00:14:52.907 --> 00:14:55.597
+Which is represented by this
+button here.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2049-0
+00:14:58.647 --> 00:15:00.267
+You see all couples.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2051-0
+00:15:01.447 --> 00:15:01.957
+This.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2078-0
+00:15:02.997 --> 00:15:07.278
+So this between this between
+here. So it's gonna lead me to
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2078-1
+00:15:07.278 --> 00:15:10.987
+couples slash couple ID which is
+this address here.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2107-0
+00:15:11.777 --> 00:15:16.131
+Which is this efficient so this
+one defined you would represent
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2107-1
+00:15:16.131 --> 00:15:20.621
+a a couple ID and then from that
+couple ID I can request from the
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2107-2
+00:15:20.621 --> 00:15:22.797
+database which is this one here.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2122-0
+00:15:23.747 --> 00:15:28.468
+I can request like write a
+sequel query via the using the
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2122-1
+00:15:28.468 --> 00:15:30.177
+Entity Premium Co C#.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2145-0
+00:15:31.147 --> 00:15:34.701
+Let's say maybe like select
+where couple ID equals to two.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2145-1
+00:15:34.701 --> 00:15:38.555
+If there are, if the if the ID
+is 2 and then it's gonna give me
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2145-2
+00:15:38.555 --> 00:15:39.217
+everything.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2181-0
+00:15:39.677 --> 00:15:42.996
+Come here. And then I'm gonna
+show all the details on that
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2181-1
+00:15:42.996 --> 00:15:46.482
+show page and then something is
+that I'm gonna show there is.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2181-2
+00:15:46.482 --> 00:15:49.969
+I'm gonna show the the join,
+join couple or leave. Kapur like
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2181-3
+00:15:49.969 --> 00:15:53.287
+if if it's a couple that a user
+is actually signed up for.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2209-0
+00:15:53.997 --> 00:15:57.516
+So that's that's. That's how.
+How about that part? And then
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2209-1
+00:15:57.516 --> 00:16:00.507
+the search struggle
+opportunities here essentially
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2209-2
+00:16:00.507 --> 00:16:04.084
+someone is coming to say for
+example like they want to go to
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2209-3
+00:16:04.084 --> 00:16:05.667
+Victoria from Johannesburg.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2219-0
+00:16:07.417 --> 00:16:09.197
+So the person is gonna go into
+the app.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2225-0
+00:16:10.007 --> 00:16:13.827
+And search up see.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2238-0
+00:16:14.737 --> 00:16:17.627
+So now we come into the app yet
+and going to.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2276-0
+00:16:19.047 --> 00:16:22.825
+All couples, so all couples is
+gonna be showing you like all
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2276-1
+00:16:22.825 --> 00:16:26.293
+the couples that are ever
+generated. As I mentioned. So
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2276-2
+00:16:26.293 --> 00:16:29.884
+there's a section. There's a
+search functionality yet. So
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2276-3
+00:16:29.884 --> 00:16:33.476
+you're gonna search whatever
+like you can search me by by
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2276-4
+00:16:33.476 --> 00:16:35.767
+origin or by destination or by
+date.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2298-0
+00:16:37.147 --> 00:16:40.892
+And then it's gonna go into the
+database, which is all couples
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2298-1
+00:16:40.892 --> 00:16:44.577
+here, and then bring you all of
+the the the relevant results.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2300-0
+00:16:45.417 --> 00:16:45.907
+Umm.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2303-0
+00:16:47.267 --> 00:16:47.947
+Let me see.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2336-0
+00:16:49.087 --> 00:16:53.063
+And then view created couple
+opportunities. So this one yeah
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2336-1
+00:16:53.063 --> 00:16:57.170
+it's it's specific to the to the
+user specific to the user. So
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2336-2
+00:16:57.170 --> 00:17:00.037
+what happens is that when the
+user logs in.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2344-0
+00:17:02.117 --> 00:17:04.327
+Like upon upon upon looking in
+here.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2380-0
+00:17:05.307 --> 00:17:09.233
+So you can see here to say here
+are you join the couples user?
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2380-1
+00:17:09.233 --> 00:17:12.972
+So this is A is representative
+of the person who's actually
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2380-2
+00:17:12.972 --> 00:17:16.897
+logged into the account right
+now. So in the same way as with.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2383-0
+00:17:18.077 --> 00:17:18.887
+The.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2413-0
+00:17:19.627 --> 00:17:23.745
+The other my couples example
+that I that I made so we'll have
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2413-1
+00:17:23.745 --> 00:17:27.730
+access to like a a user ID
+perhaps here and then it's gonna
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2413-2
+00:17:27.730 --> 00:17:30.917
+and then we're gonna request
+from the database.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2455-0
+00:17:32.097 --> 00:17:35.847
+So if you look at a database,
+yeah, if we have an idea of a
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2455-1
+00:17:35.847 --> 00:17:39.596
+user, we can request a couple
+because like the user ID is a
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2455-2
+00:17:39.596 --> 00:17:43.471
+foreign is a foreign key to the
+to the couple of table. So we
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2455-3
+00:17:43.471 --> 00:17:47.533
+can find all of the couples that
+I use that has created based on
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2455-4
+00:17:47.533 --> 00:17:48.407
+their user ID.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2466-0
+00:17:49.117 --> 00:17:52.753
+So that's that's. That's how
+that would go about this room
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2466-1
+00:17:52.753 --> 00:17:53.307
+and then.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2515-0
+00:17:54.527 --> 00:17:58.190
+So the login part I managed
+explained if I want you to to go
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2515-1
+00:17:58.190 --> 00:18:01.792
+through it again, this is gonna
+be very, very long, but I'm
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2515-2
+00:18:01.792 --> 00:18:05.454
+happy to to answer any question
+that can come with that. And
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2515-3
+00:18:05.454 --> 00:18:09.296
+then the profile part share. So
+for the profile the user has to
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2515-4
+00:18:09.296 --> 00:18:11.337
+be able to go into their
+profile.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2572-0
+00:18:12.957 --> 00:18:17.415
+Profile section was to be able
+to update their details as part
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2572-1
+00:18:17.415 --> 00:18:21.943
+of the specifications here, so
+this one is gonna be achieved by
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2572-2
+00:18:21.943 --> 00:18:26.542
+coming to this function. So for
+example see this is another part
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2572-3
+00:18:26.542 --> 00:18:31.141
+that I was trying to explain but
+then I had quoted this one here
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2572-4
+00:18:31.141 --> 00:18:35.670
+to to make an example, but I'm
+gonna explain how it comes about
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2572-5
+00:18:35.670 --> 00:18:39.207
+or how it works. So this one
+here is the user ID.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2581-0
+00:18:39.997 --> 00:18:43.467
+So upon upon logging in, you're
+gonna have access to.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2606-0
+00:18:44.587 --> 00:18:48.876
+The user ID, so we're gonna be
+using that user ID to to make
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2606-1
+00:18:48.876 --> 00:18:53.025
+request from our API our SQL
+database. So for example with
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2606-2
+00:18:53.025 --> 00:18:53.657
+this one.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2652-0
+00:18:54.437 --> 00:19:00.629
+Who requested from our API or or
+allow our database the user of
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2652-1
+00:19:00.629 --> 00:19:07.015
+ID one so the user ID one is for
+Gorilla Céline Dion with 477 and
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2652-2
+00:19:07.015 --> 00:19:12.433
+so on and so on. All of the
+details in the able to edit
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2652-3
+00:19:12.433 --> 00:19:13.497
+cancel the.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2670-0
+00:19:14.757 --> 00:19:18.447
+Yeah. Details yet. So to show
+that this this information is
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2670-1
+00:19:18.447 --> 00:19:21.337
+really corresponds, we can look
+at let me see.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2675-0
+00:19:25.607 --> 00:19:28.017
+So this was SQL Server as well.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2683-0
+00:19:34.777 --> 00:19:36.897
+So this is the first user here,
+they will come.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2711-0
+00:19:37.847 --> 00:19:41.581
+With the idea of 1 but Colum
+cylinder London just just was
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2711-1
+00:19:41.581 --> 00:19:44.997
+just using myself as a query as
+a quick example here.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2746-0
+00:19:46.157 --> 00:19:50.862
+And then so yes, yeah, the
+information does cause 100 **.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2746-1
+00:19:50.862 --> 00:19:55.567
+Here you go. So this is the
+information that you will see
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2746-2
+00:19:55.567 --> 00:19:58.487
+upon creating upon checking on
+you.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2802-0
+00:19:59.127 --> 00:20:04.807
+Your profile I couldn't here and
+to show that the editing also
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2802-1
+00:20:04.807 --> 00:20:10.667
+works. Let's say maybe I changed
+this gesture Clifford, and then
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2802-2
+00:20:10.667 --> 00:20:16.437
+maybe there's 76020000 and then
+I edit page. So I've picked it,
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2802-3
+00:20:16.437 --> 00:20:21.846
+but nothing's happening. That's
+because I haven't. I didn't
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2802-4
+00:20:21.846 --> 00:20:22.747
+implement.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2805-0
+00:20:23.427 --> 00:20:24.337
+Then.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2831-0
+00:20:25.557 --> 00:20:28.503
+But in that noise it didn't
+implement the the the
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2831-1
+00:20:28.503 --> 00:20:32.215
+navigation, but it's supposed to
+automatically navigate you to
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2831-2
+00:20:32.215 --> 00:20:35.985
+like a different page. There's a
+form of feedback that you know
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2831-3
+00:20:35.985 --> 00:20:38.047
+that you just click now worked
+or.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2855-0
+00:20:38.677 --> 00:20:42.031
+Yeah. Can you then change it to
+a different page or like give
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2855-1
+00:20:42.031 --> 00:20:45.223
+you like a pop up here saying
+that, you know what, you you
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2855-2
+00:20:45.223 --> 00:20:46.467
+editing was successful?
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2866-0
+00:20:47.107 --> 00:20:52.079
+Umm, so now because I changed
+those parts, we can come back
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2866-1
+00:20:52.079 --> 00:20:52.327
+to.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2869-0
+00:20:53.227 --> 00:20:54.197
+Can we can go back?
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2961-0
+00:20:55.227 --> 00:20:58.737
+And then come back to your
+profile again. Then we'll see
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2961-1
+00:20:58.737 --> 00:21:02.616
+that everything is still. See,
+it's changed now. It's not only
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2961-2
+00:21:02.616 --> 00:21:06.372
+Clifford Corolla and it's no
+longer the 7621. There's no 00.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2961-3
+00:21:06.372 --> 00:21:09.943
+So it shows that the 82 was
+successful. Then if maybe you
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2961-4
+00:21:09.943 --> 00:21:13.760
+change your mind, you can click
+on back and then consequently
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2961-5
+00:21:13.760 --> 00:21:17.701
+take you back to your homepage
+there. And then there's a logout
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2961-6
+00:21:17.701 --> 00:21:21.087
+button as well. And then this
+foster needs Firebase to
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2961-7
+00:21:21.087 --> 00:21:24.904
+actually, like, go about the
+user so that they have to log in
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2961-8
+00:21:24.904 --> 00:21:26.197
+back again to access.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2964-0
+00:21:26.287 --> 00:21:26.927
+Order one.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2978-0
+00:21:28.017 --> 00:21:32.005
+Ohh, the features of the site
+and it now I did mention that
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2978-1
+00:21:32.005 --> 00:21:33.267
+there was an extra.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/2988-0
+00:21:34.397 --> 00:21:37.427
+I think we see there was on the
+registration part.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3051-0
+00:21:41.357 --> 00:21:44.471
+Just do this when the
+registration part. I mentioned
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3051-1
+00:21:44.471 --> 00:21:47.936
+that there was extra fields that
+were not mentioned in the
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3051-2
+00:21:47.936 --> 00:21:51.696
+specification and what I thought
+to myself was I think it would
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3051-3
+00:21:51.696 --> 00:21:55.279
+be a bit a bit a bit, maybe a
+bit more interesting for me to
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3051-4
+00:21:55.279 --> 00:21:58.744
+to, you know, like challenge
+myself a bit more further and
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3051-5
+00:21:58.744 --> 00:22:02.327
+you know try to use because I'm
+aware that we'll advise you.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3065-0
+00:22:03.237 --> 00:22:07.748
+Preferably use C# and also like
+the front end technologies
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3065-1
+00:22:07.748 --> 00:22:09.047
+JavaScript react.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3113-0
+00:22:09.927 --> 00:22:13.871
+So I thought to myself, maybe if
+I can use this well, try to try
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3113-1
+00:22:13.871 --> 00:22:17.632
+to see if I can work with two
+API on on my project and then I
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3113-2
+00:22:17.632 --> 00:22:21.333
+I decided that you know what,
+maybe I should try to create a
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3113-3
+00:22:21.333 --> 00:22:25.033
+pitch angle rest API so on this
+API here I'm gonna be having
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3113-4
+00:22:25.033 --> 00:22:29.037
+like a different data. It's it's
+an external database altogether.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3158-0
+00:22:29.917 --> 00:22:33.571
+Umm, it's an external database
+linked together, So what it does
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3158-1
+00:22:33.571 --> 00:22:36.881
+that I thought to myself, you
+know what, like, what's the
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3158-2
+00:22:36.881 --> 00:22:40.478
+feature that Sachin app would
+like to like would have and that
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3158-3
+00:22:40.478 --> 00:22:43.731
+would possibly like give
+assurance to people like I know
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3158-4
+00:22:43.731 --> 00:22:47.327
+like it's not a, it's not like a
+a project that's going on to.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3197-0
+00:22:48.067 --> 00:22:51.623
+Uh. Production. But I I thought
+it was a nice feature tuned to
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3197-1
+00:22:51.623 --> 00:22:55.121
+take implement and also just to
+touch upon my skills as well.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3197-2
+00:22:55.121 --> 00:22:58.451
+Letter to me. So perhaps you
+know with with commuting like
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3197-3
+00:22:58.451 --> 00:23:02.119
+this, I think people would feel
+very much safer knowing that you
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3197-4
+00:23:02.119 --> 00:23:04.827
+know what the vehicles are
+actually registered.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3216-0
+00:23:06.187 --> 00:23:10.032
+And also yeah, like this is
+maybe for example like with Home
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3216-1
+00:23:10.032 --> 00:23:12.237
+Affairs for example, because,
+yes.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3224-0
+00:23:13.617 --> 00:23:15.457
+You know. Yes, it's it's, it's
+not to say that.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3291-0
+00:23:16.817 --> 00:23:20.884
+National like Citizens do not
+get up to any mischievous acts
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3291-1
+00:23:20.884 --> 00:23:24.950
+of crime, but I think it is. I
+really do think that if if if
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3291-2
+00:23:24.950 --> 00:23:29.216
+someone is assured that you know
+what the details of the driver
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3291-3
+00:23:29.216 --> 00:23:33.282
+are available at Home Office,
+the driver is very less likely
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3291-4
+00:23:33.282 --> 00:23:37.215
+to to like create like like
+perform any crime because they
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3291-5
+00:23:37.215 --> 00:23:41.414
+know that you know they can be
+tricked very easily. So this is
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3291-6
+00:23:41.414 --> 00:23:45.147
+the this is the the purpose of
+these extra fields here.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3309-0
+00:23:45.547 --> 00:23:49.835
+With the vehicle description and
+the vehicle registration so the
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3309-1
+00:23:49.835 --> 00:23:52.737
+vehicle registration is gonna be
+linked to.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3377-0
+00:23:53.667 --> 00:23:57.688
+Like that external database
+because that extended and then
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3377-1
+00:23:57.688 --> 00:24:01.913
+that external database has not
+only these two fields but also
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3377-2
+00:24:01.913 --> 00:24:06.070
+like the the name of the driver
+at the cinema of the driver,
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3377-3
+00:24:06.070 --> 00:24:10.091
+that identity number of the
+driver and so on and so on. Is
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3377-4
+00:24:10.091 --> 00:24:14.521
+it so upon upon joining here if
+the user is joining as a as a as
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3377-5
+00:24:14.521 --> 00:24:17.587
+a driver here and seeing if
+applicable here?
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3392-0
+00:24:18.847 --> 00:24:22.885
+They can give that description
+and also their registration, and
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3392-1
+00:24:22.885 --> 00:24:23.957
+then we'll go to.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3400-0
+00:24:24.697 --> 00:24:27.287
+So this is the API that I
+created for the.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3421-0
+00:24:28.187 --> 00:24:32.318
+It's an added babies. Uh using
+Jingle in Jingle this framework.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3421-1
+00:24:32.318 --> 00:24:34.577
+So for example with this one
+here.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3478-0
+00:24:35.367 --> 00:24:39.167
+It's still being all the details
+of the travelers. And then right
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3478-1
+00:24:39.167 --> 00:24:42.852
+now it's just one driver because
+I had only like, I just put in
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3478-2
+00:24:42.852 --> 00:24:46.422
+one example here for like for
+for example purposes, but it it
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3478-3
+00:24:46.422 --> 00:24:49.762
+would look something very much
+like this. So you see here
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3478-4
+00:24:49.762 --> 00:24:52.813
+there's there's vehicle
+registration. I mean we know
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3478-5
+00:24:52.813 --> 00:24:56.498
+that every vehicle registration
+is unique. So with this vehicle
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3478-6
+00:24:56.498 --> 00:24:57.937
+registration here we can.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3481-0
+00:24:58.637 --> 00:25:00.087
+Umm. Like.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3493-0
+00:25:01.207 --> 00:25:05.677
+Run it. We can like compute,
+compare it with the.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3566-0
+00:25:06.827 --> 00:25:10.834
+The the details that the that
+the user is is, is is attempting
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3566-1
+00:25:10.834 --> 00:25:14.969
+to register with one commute and
+then we wanna be comparing them
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3566-2
+00:25:14.969 --> 00:25:19.166
+with this external database here
+and then seeing that OK like was
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3566-3
+00:25:19.166 --> 00:25:23.237
+this specific vehicle registered
+with Home Affairs or something
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3566-4
+00:25:23.237 --> 00:25:27.371
+like that. You know? So because
+we know that if the registration
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3566-5
+00:25:27.371 --> 00:25:31.506
+we have the driver name which is
+shown here and then we have the
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3566-6
+00:25:31.506 --> 00:25:35.322
+driver send e-mail. So I'm in
+more details. These were just
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3566-7
+00:25:35.322 --> 00:25:36.657
+for example purposes.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3578-0
+00:25:37.217 --> 00:25:40.108
+And this is the kind of
+information that would have on
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3578-1
+00:25:40.108 --> 00:25:41.317
+the driver if they use.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3584-0
+00:25:42.257 --> 00:25:44.167
+Like vehicle registration in the
+vehicle.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3653-0
+00:25:45.777 --> 00:25:49.380
+Description like this on on the
+commute app so I thought I
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3653-1
+00:25:49.380 --> 00:25:52.800
+thought that would be like an
+extra, you know, it's not
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3653-2
+00:25:52.800 --> 00:25:56.526
+specified on the on the app. I
+know that I may be giving you
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3653-3
+00:25:56.526 --> 00:26:00.129
+more work, but I thought it's
+very something that you know
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3653-4
+00:26:00.129 --> 00:26:03.915
+would be interesting to to to
+implement and also just to just
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3653-5
+00:26:03.915 --> 00:26:07.518
+to test out some some more
+skills as well. So yeah, that's
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3653-6
+00:26:07.518 --> 00:26:08.617
+a that's about it.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3659-0
+00:26:09.717 --> 00:26:11.147
+Otherwise, like All in all.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3670-0
+00:26:11.977 --> 00:26:16.283
+Ohh and also the this one last
+thing that I wanted to to
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3670-1
+00:26:16.283 --> 00:26:16.887
+mention.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3672-0
+00:26:17.387 --> 00:26:17.767
+Uh.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3681-0
+00:26:19.307 --> 00:26:22.297
+Is that, uh, this part here?
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3711-0
+00:26:23.517 --> 00:26:27.756
+So what happens with this is
+that when when a user is gonna
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3711-1
+00:26:27.756 --> 00:26:32.278
+be deleting like they are like
+for example if a user is deleted
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3711-2
+00:26:32.278 --> 00:26:34.397
+from the from the site itself.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3719-0
+00:26:35.167 --> 00:26:37.857
+So if we look at for example.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3775-0
+00:26:38.637 --> 00:26:42.377
+User ID him so user ID is a
+foreign key to the couple ID as
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3775-1
+00:26:42.377 --> 00:26:46.429
+I mentioned. So what this means
+is that if a user gets this gets
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3775-2
+00:26:46.429 --> 00:26:50.356
+deleted from the from the site
+then automatically all of their
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3775-3
+00:26:50.356 --> 00:26:53.784
+couples that they've ever
+created are also going to be
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3775-4
+00:26:53.784 --> 00:26:57.337
+deleted. And if I can just show
+something quickly again.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3778-0
+00:26:58.557 --> 00:26:59.047
+Is.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3784-0
+00:27:13.607 --> 00:27:14.697
+OK, me.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3790-0
+00:27:23.207 --> 00:27:24.167
+But they're supposed to be.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3799-0
+00:27:24.247 --> 00:27:27.897
+We can see your food Turks
+location.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3803-0
+00:27:29.907 --> 00:27:31.057
+So this.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3812-0
+00:27:32.277 --> 00:27:34.507
+I might be that you you missing
+my.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3814-0
+00:27:35.627 --> 00:27:35.967
+See.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3871-0
+00:27:44.627 --> 00:27:48.505
+So there's a cascade to ease.
+This is the rules occur, the
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3871-1
+00:27:48.505 --> 00:27:52.645
+delete called Caskey. So what
+cascade means is that if we have
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3871-2
+00:27:52.645 --> 00:27:56.851
+a foreign key like for example
+like user ID is a foreign key to
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3871-3
+00:27:56.851 --> 00:28:00.860
+to to to the couple table. What
+that means is that if you're
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3871-4
+00:28:00.860 --> 00:28:03.817
+gonna be deleting a user, then
+all of their.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3931-0
+00:28:04.987 --> 00:28:09.117
+Couples that they've ever
+created are also going to be
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3931-1
+00:28:09.117 --> 00:28:13.548
+treated, so that's gonna be
+handled by that rule here that
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3931-2
+00:28:13.548 --> 00:28:17.978
+there was also something that
+might be put into mention as
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3931-3
+00:28:17.978 --> 00:28:22.483
+well. And yeah, just to to to
+move over time at this point.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3931-4
+00:28:22.483 --> 00:28:27.214
+But just to to to keep it very
+short. I'm gonna leave it here.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3931-5
+00:28:27.214 --> 00:28:31.945
+Appreciate you looking at the
+video up to this point. And I am
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/3931-6
+00:28:31.945 --> 00:28:34.197
+available e-mail or via phone.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/4001-0
+00:28:34.647 --> 00:28:38.046
+For you and the federal
+questions, and yeah, like no
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/4001-1
+00:28:38.046 --> 00:28:41.959
+notice on, honestly, no, not to
+sound cliche, but I actually
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/4001-2
+00:28:41.959 --> 00:28:45.807
+did. If you did have fun with
+the project, it was there was
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/4001-3
+00:28:45.807 --> 00:28:49.719
+high pressure ease but it it it
+allowed me to to bring it to
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/4001-4
+00:28:49.719 --> 00:28:53.631
+middle 80s for example. Now I
+know that you know I can I can
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/4001-5
+00:28:53.631 --> 00:28:57.287
+try to temper around with
+multiple API's in the same the
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/4001-6
+00:28:57.287 --> 00:28:57.607
+same.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/4059-0
+00:28:57.687 --> 00:29:02.266
+From from where application and
+also with Firebase as well like
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/4059-1
+00:29:02.266 --> 00:29:06.415
+Firebase it's a good like I've
+worked with authentication
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/4059-2
+00:29:06.415 --> 00:29:10.850
+before but I was using a A GWT
+JavaScript web tokens compared
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/4059-3
+00:29:10.850 --> 00:29:14.928
+to Firebase language GWT. I
+really like the longer route
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/4059-4
+00:29:14.928 --> 00:29:19.291
+towards authentication. So now I
+know that you know what I'm
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/4059-5
+00:29:19.291 --> 00:29:21.437
+gonna I'm gonna be looking at.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/4082-0
+00:29:21.577 --> 00:29:26.953
+I'm a fair piece in more detail
+from now one thing and it makes
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/4082-1
+00:29:26.953 --> 00:29:31.741
+things a bit more quicker for
+for like quicker. You know
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/4082-2
+00:29:31.741 --> 00:29:33.337
+projects like this.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/4117-0
+00:29:34.477 --> 00:29:38.606
+Definitely I'm jitter, which is
+also has its own advantages, but
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/4117-1
+00:29:38.606 --> 00:29:42.353
+I think for for understanding
+concepts fire base does help
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/4117-2
+00:29:42.353 --> 00:29:46.100
+with with that because it's
+quicker. Ohh so yeah, just two
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/4117-3
+00:29:46.100 --> 00:29:48.577
+that's that's that's that's it
+for me.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/4129-0
+00:29:49.677 --> 00:29:54.448
+Baby for for the the project and
+yes, looking for to hearing from
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/4129-1
+00:29:54.448 --> 00:29:54.737
+you.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/4134-0
+00:29:55.987 --> 00:29:57.357
+Speaking to.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/4137-0
+00:29:59.937 --> 00:30:00.637
+That's.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/4139-0
+00:30:01.487 --> 00:30:01.927
+Right.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/4160-0
+00:30:06.237 --> 00:30:10.403
+Alright, thank you. And yes, as
+I mentioned, I'll be available
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/4160-1
+00:30:10.403 --> 00:30:13.907
+via e-mail or via text or any
+other further details.
+
+4b63b7e6-d608-4f4c-8554-7f1d4c6fcf57/4164-0
+00:30:14.667 --> 00:30:15.497
+Thank you very much.

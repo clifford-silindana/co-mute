@@ -51,7 +51,6 @@ function AllCarpools() {
                  <h4 className = "preview-text">origin: {carpool.origin}</h4>
                  <h4 className = "preview-text">destination: {carpool.destination}</h4>
                  <Link to = {"/carpools/" + carpool.id}><button type="button" class="preview-btn">view carpool</button></Link>
-                
             </div>
         ))}
     </div>
